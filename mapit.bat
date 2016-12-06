@@ -1,0 +1,1 @@
+@py.exe /Users/AnthonyBenites/Desktop/Python Scripts/mapit.py %*
